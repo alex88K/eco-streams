@@ -283,7 +283,10 @@ $box-padding: 10px;
 	}
 }
 
-.brand-logo { margin: -14px 0 0 0; }
+.brand-logo { 
+	margin: -14px 0 0 0; 
+	a { display: block; }
+}
 
 .tel-i {
 	position: relative;
@@ -967,6 +970,12 @@ $contact-spacing: 40px;
 .f-logo {
 	display: block;
 	margin-bottom: 15px;
+	object {
+		.st1,
+		.st0 {
+			fill: #fff !important;
+		}
+	}
 }
 
 .f-text,

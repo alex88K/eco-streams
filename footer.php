@@ -2,7 +2,9 @@
       <div class="container">
          <div class="f-cols">
             <div class="f-col f-brand">
-               <a href="/" class="f-logo"><img src="images/logo-w.png" width="187" height="66" alt="Eco-Stream.ru"></a>
+                  <a href="/" class="f-logo">
+                     <img src="images/logo-w.svg" width="187px" height="66px" alt="eco-streams.ru">
+                  </a>
                <div class="f-text">
                   <p>ООО «Торговый Дом<br/>«Продукты Экострим»</p>
                   <p>190000, г. Москва<br/>ул. Яхтенная, д.10, оф.123</p>
@@ -30,8 +32,8 @@
                <div class="f-title">Позвоните нам</div>
                <div class="f-list">
                   <ul>
-                     <li><a href="tel:+79251602422">+7 (925) 160 24 22</a></li>
                      <li><a href="tel:+79251602415">+7 (925) 160 24 15</a></li>
+                     <li><a href="tel:+79251602422">+7 (925) 160 24 22</a></li>
                      <li><a href="tel:+79251602203">+7 (925) 160 22 03</a></li>
                      <li><a href="tel:+79251602409">+7 (925) 160 24 09</a></li>
                   </ul>

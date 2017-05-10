@@ -22,7 +22,15 @@
                </div>
             </li>
             <li class="promo-slider-item">
-               <div class="slider-bg cover-image" style="background-image: url(pic/promo-slider/slide-1.jpg)"></div>
+               <div class="slider-bg cover-image" style="background-image: url(pic/promo-slider/slide-11.png)"></div>
+               <div class="slider-info">
+                  <h2 class="slider-title">eco-streams.ru</h2>
+                  <div class="slider-subtitle">Задача организации, в особенности же постоянное<br/>информационно-пропагандистское обеспечение нашей деятельности<br/>представляет собой интересный эксперимент проверки существенных<br/>финансовых и административных условий.</div>
+                  <a href="#" class="btn btn_m">Получить прайс</a>
+               </div>
+            </li>
+            <li class="promo-slider-item">
+               <div class="slider-bg cover-image" style="background-image: url(pic/promo-slider/slide-22.png)"></div>
                <div class="slider-info">
                   <h2 class="slider-title">eco-streams.ru</h2>
                   <div class="slider-subtitle">Задача организации, в особенности же постоянное<br/>информационно-пропагандистское обеспечение нашей деятельности<br/>представляет собой интересный эксперимент проверки существенных<br/>финансовых и административных условий.</div>
@@ -34,7 +42,7 @@
       <section class="catalog">
          <div class="container">
             <header class="section-header">
-               <h2 class="section-title">Каталог</h2>
+               <h2 class="section-title">Каталог нашей продукции</h2>
             </header>
             <ul class="catalog-list">
                <li class="catalog-item reveal-anim">
