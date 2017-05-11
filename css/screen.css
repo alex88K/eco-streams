@@ -348,7 +348,7 @@ textarea.form-control:focus {
 }
 
 .lang-sprite, .lang-en, .lang-iranian, .lang-ru {
-  background-image: url('/images/../images/lang-see8f52db21.png');
+  background-image: url('../images/lang-see8f52db21.png');
   background-repeat: no-repeat;
 }
 
@@ -773,8 +773,8 @@ textarea.form-control:focus {
   font-family: "Circe";
 }
 .popover-content img {
-  width: 165px;
-  height: 175px;
+  max-width: 165px;
+  max-height: 175px;
   margin: 5px 0 12px 30px;
   overflow: hidden;
   border-radius: 50px;
@@ -840,7 +840,7 @@ textarea.form-control:focus {
 }
 
 .advantage-sprite, .advantage-apple, .advantage-coin, .advantage-medal, .advantage-rocket {
-  background-image: url('/images/../images/advantage-s1c2bb45a56.png');
+  background-image: url('../images/advantage-s1c2bb45a56.png');
   background-repeat: no-repeat;
 }
 
@@ -1039,7 +1039,7 @@ textarea.form-control:focus {
 }
 
 .contact-sprite, .contact-envelope, .contact-phone, .contact-pin {
-  background-image: url('/images/../images/contact-s0f94293f38.png');
+  background-image: url('../images/contact-s0f94293f38.png');
   background-repeat: no-repeat;
 }
 

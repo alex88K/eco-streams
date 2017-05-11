@@ -683,8 +683,8 @@ $box-padding: 10px;
 		font-family: $pr;
 	}
 	img {
-		width: 165px;
-		height: 175px;
+		max-width: 165px;
+		max-height: 175px;
 		margin: 5px 0 12px 30px;
 		overflow: hidden;
 		border-radius: 50px;
