@@ -1,3 +1,4 @@
+@charset "UTF-8";
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
 a, abbr, acronym, address, big, cite, code,
@@ -187,6 +188,25 @@ em {
   font-style: italic;
 }
 
+.content h3,
+.content h4,
+.content h5,
+.content h6 {
+  margin: 1em 0 .5em 0;
+}
+
+.content ul li {
+  position: relative;
+  padding-left: 1.2em;
+  line-height: 1.6;
+}
+
+.content ul li:before {
+  content: '—';
+  position: absolute;
+  left: 0;
+}
+
 input[type="text"],
 input[type="email"],
 input[type="tel"],
@@ -348,7 +368,7 @@ textarea.form-control:focus {
 }
 
 .lang-sprite, .lang-en, .lang-iranian, .lang-ru {
-  background-image: url('../images/lang-see8f52db21.png');
+  background-image: url('/images/../images/lang-see8f52db21.png');
   background-repeat: no-repeat;
 }
 
@@ -840,7 +860,7 @@ textarea.form-control:focus {
 }
 
 .advantage-sprite, .advantage-apple, .advantage-coin, .advantage-medal, .advantage-rocket {
-  background-image: url('../images/advantage-s1c2bb45a56.png');
+  background-image: url('/images/../images/advantage-s1c2bb45a56.png');
   background-repeat: no-repeat;
 }
 
@@ -1039,7 +1059,7 @@ textarea.form-control:focus {
 }
 
 .contact-sprite, .contact-envelope, .contact-phone, .contact-pin {
-  background-image: url('../images/contact-s0f94293f38.png');
+  background-image: url('/images/../images/contact-s0f94293f38.png');
   background-repeat: no-repeat;
 }
 
@@ -1201,7 +1221,7 @@ textarea.form-control:focus {
     margin: 0;
     padding: 11px 25px;
     color: #fff;
-    font-size: 17px;
+    font-size: 14px;
     border-bottom: 2px solid #343432;
   }
   .main-menu .navbar-nav.nav .dropdown-menu {
